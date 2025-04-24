@@ -1,19 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
 :root{
     --fonte: "Montserrat", sans-serif;
-    --branco: #fff;
-    --azul: #155DFC;
-    --rosa: #E12AFB;
-    --azul-secundario: #00BCFF;
-    --rosa-secundario: #ED6AFF;
-    --azul-terceiro: #2B7FFF;
 }
 *{
     font-family: var(--fonte);
-}
-header{
-    background-color: var(--azul);
-}
-.main-totem{
-    color: var(--azul);
 }
