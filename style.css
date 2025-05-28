@@ -6,6 +6,15 @@
 *{
     font-family: var(--fonte);
 }
+main{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+}
+#solucoes{
+    background-image: linear-gradient(to bottom, #0d6efd, #8fbcff);
+}
 footer{
     background-image: linear-gradient(to top, var(--azul), white);
 }
